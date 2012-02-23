@@ -1,0 +1,12 @@
+#----------------#
+# Better SimpleX #
+#----------------#
+
+This repo is intended to hold a revision of the
+Simplex SSC algorithm. Most likely the early
+versions will be done in Matlab to verify the
+internals of the algorithm, and then will be ported
+into C++.
+
+
+Do. Then talk about it.
